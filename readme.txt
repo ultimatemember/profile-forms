@@ -1,6 +1,6 @@
 ﻿=== Ultimate Member - Split profile form ===
 Author URI: https://ultimatemember.com/
-Plugin URI: https://docs.ultimatemember.com/article/147-how-to-add-social-icons-to-profile-header
+Plugin URI: https://docs.ultimatemember.com/article/1552-how-to-manage-profile-form-with-a-huge-quantity-of-fields
 Contributors: ultimatemember
 Donate link:
 Tags: patch, profile form, a lot of fields
@@ -34,6 +34,11 @@ This plugin automatically adds a subtab for each profile form into the tab "Abou
 For more details, please read the article "How to manage profile form with a huge quantity of fields" (https://docs.ultimatemember.com/article/1552-how-to-manage-profile-form-with-a-huge-quantity-of-fields).
 
 == Changelog ==
+
+= 1.0.1: June 15, 2020 =
+
+* Tweak:  Hide role-specific forms that current role can't see.
+* Update: The plugin is rewritten in OOP style.
 
 = 1.0.0: June 2, 2020 =
 
