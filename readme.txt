@@ -1,7 +1,3 @@
-### Deprecated and is not supported due to the Ultimate Member - Profile Tabs extension functionality.
-
-See more details [here](https://ultimatemember.com/extensions/profile-tabs/). How to embed the form to the Profile Tab see [here](https://docs.ultimatemember.com/article/1547-profile-tabs-setup#embed-form).
-
 ﻿=== Ultimate Member - Split profile form ===
 Author URI: https://ultimatemember.com/
 Plugin URI: https://docs.ultimatemember.com/article/1552-how-to-manage-profile-form-with-a-huge-quantity-of-fields
